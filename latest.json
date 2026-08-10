@@ -1,12 +1,12 @@
 {
-  "tag_name": "v1.2.9",
+  "tag_name": "v1.3.0",
   "draft": false,
   "prerelease": false,
   "assets": [
     {
-      "name": "link-parser-3f8467d.apk",
-      "browser_download_url": "https://github.com/ya3924143/link-parser-updates/releases/download/v1.2.9/link-parser-3f8467d.apk",
-      "digest": "sha256:4b79bda10c056399933d182a2dd64ec26ab771eb4a61df12ba92342073e8e43c"
+      "name": "link-parser-0f436d8.apk",
+      "browser_download_url": "https://github.com/ya3924143/link-parser-updates/releases/download/v1.3.0/link-parser-0f436d8.apk",
+      "digest": "sha256:b6822a1abaf10f655e57ba9d4bf09667a4cb7ac66d48854691cf1edbb5fe3571"
     }
   ]
 }
