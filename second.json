@@ -1,12 +1,12 @@
 {
-  "tag_name": "v1.3.19",
+  "tag_name": "v1.3.20",
   "draft": false,
   "prerelease": false,
   "assets": [
     {
       "name": "app-second.apk",
-      "browser_download_url": "https://github.com/ya3924143/link-parser-updates/releases/download/v1.3.19/app-second.apk",
-      "digest": "sha256:a8f3127a1488e440d98ebf4ee434ef886d36304881976f308109db53c15c09ab"
+      "browser_download_url": "https://github.com/ya3924143/link-parser-updates/releases/download/v1.3.20/app-second.apk",
+      "digest": "sha256:2a52715563a66428d61c9b9d618debc7497faf1d0b1933201ea10a21a6e9a6c0"
     }
   ]
 }
